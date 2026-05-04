@@ -35,3 +35,4 @@ It is tailored for **Basaveshwara Co-operative Society, Gubbahalli**.
 - Set up Firebase Firestore with seed data (members, loans, contributions).  
 - Deploy the app using Firebase Hosting.  
 - Share access with society members for transparent tracking.
+  
